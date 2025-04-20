@@ -1,5 +1,6 @@
 
-![logo] (banner.png)
+![TryHidding Banner](./banner.png)
+
 
                        
 
