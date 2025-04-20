@@ -1,5 +1,5 @@
 
-![logo] (./banner.png)
+![logo] (banner.png)
 
                        
 
